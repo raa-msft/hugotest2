@@ -1,0 +1,4 @@
+baseURL = 'https://raa-msft.github.io/'
+languageCode = 'en-us'
+title = 'CSA Biz Apps Site'
+theme = 'lightbi-hugo'
